@@ -3,7 +3,7 @@ name = "SigmaOS-libfuzzer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "libfuzzer component"
+description = "libFuzzer"
 upstream = []
 
 [contract]
